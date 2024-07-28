@@ -36,15 +36,12 @@ Ingresa el texto que deseas encriptar o desencriptar en el área de texto propor
 Selecciona la acción deseada (Encriptar o Desencriptar) haciendo clic en el botón correspondiente.
 El resultado se mostrará en la tarjeta de mensaje.
 Puedes copiar el texto encriptado/desencriptado haciendo clic en el botón "Copiar".
+
+
 Tecnologías Utilizadas
 HTML5: Estructura de la aplicación web.
 CSS3: Estilos y diseño responsivo.
 JavaScript: Lógica de encriptación y desencriptación, y funcionalidades de la interfaz.
-Capturas de Pantalla
-Vista en Escritorio
-
-Vista en Móvil
-
 
 
 Licencia
